@@ -1,7 +1,9 @@
 package app;
+
 import dao.ProdutoDAO;
 import model.Produto;
 import java.util.Scanner;
+
 
 public class Aplicacao {
 
