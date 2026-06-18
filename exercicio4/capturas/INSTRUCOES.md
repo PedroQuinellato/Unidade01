@@ -43,4 +43,3 @@ Capturar a tela do recurso "Language Service" no Portal Azure mostrando:
 
 ---
 
-> Salve as imagens nesta pasta antes de fazer o push para o GitHub.
